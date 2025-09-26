@@ -1,4 +1,2 @@
-# odoo-demo
-This is my first git repository
-<br>
-Author-yasir kareem
+i have just upload my demo.py file
+
